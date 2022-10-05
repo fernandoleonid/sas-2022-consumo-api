@@ -2,7 +2,7 @@
 
 [https://swapi.co/](https://swapi.co/)
 
-[https://developer.marvel.com/](https://developer.marvel.com/)]
+[https://developer.marvel.com/](https://developer.marvel.com/)
 
 [https://pokeapi.co/](https://pokeapi.co/)
 
