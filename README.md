@@ -24,4 +24,4 @@
 
 [https://www.tvmaze.com/api](https://www.tvmaze.com/api)
 
-[https://superheroapi.com/](https://superheroapi.com/)
+[https://superheroapi.com/](https://www.superheroapi.com/)
